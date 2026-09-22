@@ -1,0 +1,14 @@
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\RetroConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\RetroConsole.AssemblyInfoInputs.cache
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\RetroConsole.AssemblyInfo.cs
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\RetroConsole.csproj.CoreCompileInputs.cache
+D:\Desktop\fun stuff\keylogger test\bin\Debug\net8.0-windows\RetroConsole.exe
+D:\Desktop\fun stuff\keylogger test\bin\Debug\net8.0-windows\RetroConsole.deps.json
+D:\Desktop\fun stuff\keylogger test\bin\Debug\net8.0-windows\RetroConsole.runtimeconfig.json
+D:\Desktop\fun stuff\keylogger test\bin\Debug\net8.0-windows\RetroConsole.dll
+D:\Desktop\fun stuff\keylogger test\bin\Debug\net8.0-windows\RetroConsole.pdb
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\RetroConsole.dll
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\refint\RetroConsole.dll
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\RetroConsole.pdb
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\RetroConsole.genruntimeconfig.cache
+D:\Desktop\fun stuff\keylogger test\obj\Debug\net8.0-windows\ref\RetroConsole.dll
